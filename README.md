@@ -10,7 +10,7 @@ fingerprint reader, heart rate sensor, alcohol measuring sensor, and RFID card
 reader sensor.
 
 # Block Diagram
-## ElectricaL Block Diagram
+## Electrical Block Diagram
 
 ![electrical Blok diagram](https://user-images.githubusercontent.com/34060382/146657651-148acdbb-8eb5-4959-8d3c-e03b1465295f.png)
 
