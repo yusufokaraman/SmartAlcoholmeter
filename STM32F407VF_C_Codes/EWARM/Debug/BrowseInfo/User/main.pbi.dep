@@ -1,0 +1,32 @@
+C:\Users\burak\Desktop\PROJECT\EWARM\Debug\BrowseInfo\User\main.pbi: \
+  C:\Users\burak\Desktop\PROJECT\EWARM\main.c \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Manual_Config\stm32f4xx.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cm4.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cmInstr.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\cmsis_iar.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cmFunc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cmSimd.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\system_stm32f4xx.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Manual_Config\stm32f4xx_conf.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\misc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_adc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_flash.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_gpio.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_rcc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_spi.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_tim.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_usart.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_cryp.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_hash.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_rng.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_can.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_dac.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_dcmi.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_fsmc.h

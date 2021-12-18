@@ -1,0 +1,52 @@
+C:\Users\burak\Desktop\PROJECT\EWARM\Debug\BrowseInfo\User\GPIO_CONFIG.pbi: \
+  C:\Users\burak\Desktop\PROJECT\User\Libraries\Finger_Lib\src\GPIO_CONFIG.c \
+  C:\Users\burak\Desktop\PROJECT\EWARM\main.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Manual_Config\stm32f4xx.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cm4.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Full.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cmInstr.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\cmsis_iar.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cmFunc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\core_cmSimd.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\CMSIS\system_stm32f4xx.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Manual_Config\stm32f4xx_conf.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\misc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_adc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_flash.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_gpio.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_rcc.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_spi.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_tim.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_usart.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_dma.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_cryp.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_hash.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_rng.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_can.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_dac.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_dcmi.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\Std_Periph\stm32f4xx_fsmc.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdio.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\string.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product_string.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdlib.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\ADC_SENSORS_LIB\ADC_CONFIG.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdbool.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Rifd_lib\Inc\mfrc522.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Rifd_lib\Inc\Rfid_main_functions.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\GPIO_CONFIG.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\main.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\USART_CONFIG.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\delay.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\FINGER_MAIN_FUNCTIONS.h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\Finger_print\ .h \
+  C:\Users\burak\Desktop\PROJECT\EWARM\..\User\Libraries\Finger_Lib\inc\UART_Function.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ctype.h
