@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3977411899</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_usart.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\GPIO_CONFIG.o</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_spi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_tim.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\Delay.o</file>
+            <file>$PROJ_DIR$\Debug\Exe\project.out</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_tim.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_adc.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_flash.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\GPIO_CONFIG.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Rfid_lib\mfrc522.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\misc.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\UART_Function.o</file>
+            <file>$PROJ_DIR$\main.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Rifd_lib\Inc\Rfid_main_functions.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\..\Manual_Config\stm32f4xx.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\CMSIS\startup_stm32f40xx.o</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_rcc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\FINGER_MAIN_FUNCTIONS.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\ADC_SENSORS_LIB\ADC_CONFIG.o</file>
+            <file>$PROJ_DIR$\Debug\List\project.map</file>
+            <file>$PROJ_DIR$\settings\stm32f4xx_flash.icf</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\Delay.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\cmsis_iar.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_dcmi.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_adc.o</file>
+            <file>$PROJ_DIR$\..\CMSIS\core_cmInstr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\USART_CONFIG.o</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_can.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_spi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\FINGER_MAIN_FUNCTIONS.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_hash.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tlf.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\main.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_dac.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\CMSIS\system_stm32f4xx.o</file>
+            <file>$PROJ_DIR$\..\User\Libraries\ADC_SENSORS_LIB\ADC_CONFIG.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\MY_SPI_CONFIG.o</file>
+            <file>$PROJ_DIR$\..\CMSIS\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_dma.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_gpio.o</file>
+            <file>$PROJ_DIR$\..\CMSIS\core_cm4.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_dma.o</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_rng.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_gpio.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\misc.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_spi.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_usart.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_rcc.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_dma.c</file>
+            <file>$PROJ_DIR$\..\CMSIS\system_stm32f4xx.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_adc.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_flash.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_tim.c</file>
+            <file>$PROJ_DIR$\..\CMSIS\startup_stm32f40xx.s</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\Delay.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\FINGER_MAIN_FUNCTIONS.c</file>
+            <file>$PROJ_DIR$\..\CMSIS\core_cmSimd.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\Finger_print.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\ADC_SENSORS_LIB\ADC_CONFIG.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\MY_SPI_CONFIG.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\GPIO_CONFIG.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\USART_CONFIG.c</file>
+            <file>$PROJ_DIR$\..\Std_Periph\misc.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Rifd_lib\Src\mfrc522.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\UART_Function.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\CMSIS\startup_stm32f40xx.o.rsp</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_fsmc.h</file>
+            <file>$PROJ_DIR$\..\CMSIS\system_stm32f4xx.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_usart.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Rifd_lib\Src\Rfid_main_functions.c</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\USART_CONFIG.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\Manual_Config\stm32f4xx_conf.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\project.bin</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\UART_Function.h</file>
+            <file>$PROJ_DIR$\..\Std_Periph\stm32f4xx_cryp.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Finger_Lib\inc\Finger_print .h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_rcc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Rfid_lib\Rfid_main_functions.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\User\Libraries\Finger_lib\Finger_print.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Std_Periph\stm32f4xx_flash.o</file>
+            <file>$PROJ_DIR$\..\User\Libraries\Rifd_lib\Inc\mfrc522.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\project.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 40 54 55 17 27 20 45 13 31 57 99 50 95 35 5 0 25 6 36 98 3 47 14 33 97 12 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 7 26</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_spi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 35</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 0</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_dma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\CMSIS\system_stm32f4xx.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 45</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_adc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 31</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_flash.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Std_Periph\stm32f4xx_tim.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 5</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 29 88 96 39 22 51 48 32 72 83 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\CMSIS\startup_stm32f40xx.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 20</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 81</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\Delay.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\FINGER_MAIN_FUNCTIONS.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\Finger_print.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\ADC_SENSORS_LIB\ADC_CONFIG.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\MY_SPI_CONFIG.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\GPIO_CONFIG.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\USART_CONFIG.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Rifd_lib\Src\mfrc522.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Finger_Lib\src\UART_Function.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 14</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\User\Libraries\Rifd_lib\Src\Rfid_main_functions.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 42 1 102 37 29 88 101 41 96 24 53 93 39 52 22 51 48 32 72 83 15 18 89 78 9 34 92 44 30 49 10 82 19 38 21 58 4 8 84 46 23 94 11 91 87 28 43 16 100</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\project.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 7</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
