@@ -1,0 +1,53 @@
+c:\users\asus\documents\visual studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Help_form.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\parmak_izi_proje\parmak_izi_proje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form1.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form2.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form3.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Help_form.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe.config
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\21-22\150207091_TALHA_ŞAHİN\150207091_TALHA_ŞAHİN\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form1.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form2.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form3.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Help_form.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\obj\Debug\parmak_izi_proje.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe.config
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\den\CODES\c# Visual Studio Codes\parmak_izi_proje\parmak_izi_proje\bin\Debug\parmak_izi_proje.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe.config
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\bin\Debug\parmak_izi_proje.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\bin\Debug\parmak_izi_proje.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form1.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form2.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.Form3.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.Help_form.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\C#_Codes\parmak_izi_proje\obj\Debug\parmak_izi_proje.pdb
