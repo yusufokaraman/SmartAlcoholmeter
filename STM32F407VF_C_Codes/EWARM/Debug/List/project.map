@@ -1,0 +1,708 @@
+###############################################################################
+#
+# IAR ELF Linker V9.20.2.320/W64 for ARM                  09/Dec/2021  09:29:09
+# Copyright 2007-2021 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Exe\project.out
+#    Map file     =
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\List\project.map
+#    Command line =
+#        -f
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Exe\project.out.rsp
+#        (C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\ADC_SENSORS_LIB\ADC_CONFIG.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\Delay.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\FINGER_MAIN_FUNCTIONS.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\Finger_print.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\GPIO_CONFIG.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\main.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Rfid_lib\mfrc522.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\misc.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\MY_SPI_CONFIG.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Rfid_lib\Rfid_main_functions.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\CMSIS\startup_stm32f40xx.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_adc.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_dma.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_flash.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_gpio.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_rcc.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_spi.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_tim.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph\stm32f4xx_usart.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\CMSIS\system_stm32f4xx.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\UART_Function.o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib\USART_CONFIG.o
+#        --no_out_extension -o
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Exe\project.out
+#        --redirect _Printf=_PrintfFullNoMb --redirect _Scanf=_ScanfFullNoMb
+#        --map
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\List\project.map
+#        --config
+#        C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM/settings/stm32f4xx_flash.icf
+#        --semihosting --entry __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P1":  place in [from 0x800'0000 to 0x81f'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block HEAP with size = 512, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2002'ffff] {
+          rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind         Address    Size  Object
+  -------            ----         -------    ----  ------
+"A0":                                       0x188
+  .intvec            ro code   0x800'0000   0x188  startup_stm32f40xx.o [2]
+                             - 0x800'0188   0x188
+
+"P1":                                      0x4b1a
+  .text              ro code   0x800'0188   0xf2e  xprintffull_nomb.o [7]
+  .text              ro code   0x800'10b6    0x3a  packbits_init_single.o [9]
+  .text              ro code   0x800'10f0    0x16  strchr.o [9]
+  .text              ro code   0x800'1106     0xa  xsprout.o [7]
+  .text              ro code   0x800'1110    0x40  xfail_s.o [7]
+  .text              ro code   0x800'1150    0x36  strlen.o [9]
+  .rodata            const     0x800'1186     0x2  xlocale_c.o [7]
+  .text              ro code   0x800'1188    0x58  memchr.o [9]
+  .text              ro code   0x800'11e0    0xa6  ABImemcpy.o [9]
+  .rodata            const     0x800'1286     0x1  xlocale_c.o [7]
+  .text              ro code   0x800'1288    0x70  frexp.o [8]
+  .text              ro code   0x800'12f8    0x34  DblCmpLe.o [8]
+  .text              ro code   0x800'132c    0x34  DblCmpGe.o [8]
+  .text              ro code   0x800'1360   0x13a  ldexp.o [8]
+  .text              ro code   0x800'149c    0x36  DblToS32.o [8]
+  .text              ro code   0x800'14d4    0x22  S32ToDbl.o [8]
+  .text              ro code   0x800'14f8   0x24e  DblAddSub.o [8]
+  .text              ro code   0x800'1748   0x246  DblDiv.o [8]
+  .text              ro code   0x800'1990    0x22  DblToU32.o [8]
+  .text              ro code   0x800'19b4    0x1c  U32ToDbl.o [8]
+  .text              ro code   0x800'19d0   0x1aa  DblMul.o [8]
+  .text              ro code   0x800'1b7c     0x8  xlocale_c.o [7]
+  .text              ro code   0x800'1b84   0x230  I64DivMod.o [9]
+  .text              ro code   0x800'1db4     0x6  abort.o [7]
+  .text              ro code   0x800'1dbc     0x2  I64DivZer.o [9]
+  .text              ro code   0x800'1dc0    0x14  exit.o [10]
+  .text              ro code   0x800'1dd4    0x7c  iarttio.o [10]
+  .text              ro code   0x800'1e50     0x8  XShttio.o [7]
+  .text              ro code   0x800'1e58   0x6b8  mfrc522.o [6]
+  .text              ro code   0x800'2510   0x170  stm32f4xx_rcc.o [3]
+  .text              ro code   0x800'2680   0x118  stm32f4xx_gpio.o [3]
+  .text              ro code   0x800'2798   0x11c  stm32f4xx_spi.o [3]
+  .text              ro code   0x800'28b4    0x34  Delay.o [5]
+  .text              ro code   0x800'28e8   0x64c  Finger_print.o [5]
+  .text              ro code   0x800'2f34    0x28  printf.o [7]
+  .text              ro code   0x800'2f5c   0x4a8  FINGER_MAIN_FUNCTIONS.o [5]
+  .text              ro code   0x800'3404   0x264  UART_Function.o [5]
+  .text              ro code   0x800'3668    0x40  sprintf.o [7]
+  .text              ro code   0x800'36a8    0xf8  USART_CONFIG.o [5]
+  .text              ro code   0x800'37a0   0x1f4  stm32f4xx_usart.o [3]
+  .text              ro code   0x800'3994   0x28c  main.o [1]
+  .text              ro code   0x800'3c20    0x80  misc.o [3]
+  .text              ro code   0x800'3ca0   0x184  GPIO_CONFIG.o [5]
+  .text              ro code   0x800'3e24   0x194  Rfid_main_functions.o [6]
+  .text              ro code   0x800'3fb8   0x228  ADC_CONFIG.o [4]
+  .text              ro code   0x800'41e0   0x1a4  stm32f4xx_adc.o [3]
+  .text              ro code   0x800'4384   0x20c  stm32f4xx_dma.o [3]
+  .text              ro code   0x800'4590   0x124  system_stm32f4xx.o [2]
+  .text              ro code   0x800'46b4    0x44  putchar.o [7]
+  .text              ro code   0x800'46f8    0x10  write.o [10]
+  .text              ro code   0x800'4708    0x1e  dwrite.o [10]
+  .text              ro code   0x800'4726    0x20  iarwstd.o [10]
+  .text              ro code   0x800'4746    0x22  iarwrite.o [10]
+  .rodata            const     0x800'4768    0x38  FINGER_MAIN_FUNCTIONS.o [5]
+  .text              ro code   0x800'47a0    0x38  zero_init3.o [9]
+  .rodata            const     0x800'47d8    0x28  FINGER_MAIN_FUNCTIONS.o [5]
+  .text              ro code   0x800'4800    0x28  data_init.o [9]
+  .rodata            const     0x800'4828    0x24  Finger_print.o [5]
+  .text              ro code   0x800'484c    0x22  fpinit_M.o [8]
+  .iar.init_table    const     0x800'4870    0x20  - Linker created -
+  .rodata            const     0x800'4890    0x20  Rfid_main_functions.o [6]
+  .text              ro code   0x800'48b0    0x1e  cmain.o [9]
+  .text              ro code   0x800'48ce     0x4  low_level_init.o [7]
+  .text              ro code   0x800'48d2     0x4  exit.o [7]
+  .text              ro code   0x800'48d8     0xa  cexit.o [9]
+  .rodata            const     0x800'48e4    0x1c  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'4900    0x1c  Finger_print.o [5]
+  .rodata            const     0x800'491c    0x1c  Finger_print.o [5]
+  .text              ro code   0x800'4938    0x1c  cstartup_M.o [9]
+  .rodata            const     0x800'4954    0x18  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'496c    0x18  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'4984    0x18  Finger_print.o [5]
+  .rodata            const     0x800'499c    0x18  Finger_print.o [5]
+  .text              ro code   0x800'49b4    0x16  xprout.o [7]
+  .rodata            const     0x800'49cc    0x14  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'49e0    0x14  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'49f4    0x14  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'4a08    0x14  Finger_print.o [5]
+  .rodata            const     0x800'4a1c    0x14  Rfid_main_functions.o [6]
+  .text              ro code   0x800'4a30    0x14  time64.o [10]
+  .rodata            const     0x800'4a44    0x10  FINGER_MAIN_FUNCTIONS.o [5]
+  .rodata            const     0x800'4a54    0x10  FINGER_MAIN_FUNCTIONS.o [5]
+  .text              ro code   0x800'4a64    0x10  startup_stm32f40xx.o [2]
+  .rodata            const     0x800'4a74     0xc  Finger_print.o [5]
+  .rodata            const     0x800'4a80     0xc  Rfid_main_functions.o [6]
+  .rodata            const     0x800'4a8c     0x8  ADC_CONFIG.o [4]
+  .rodata            const     0x800'4a94     0x8  Finger_print.o [5]
+  .rodata            const     0x800'4a9c     0x8  Rfid_main_functions.o [6]
+  .rodata            const     0x800'4aa4     0x8  Rfid_main_functions.o [6]
+  .text              ro code   0x800'4aac     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ab0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ab4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ab8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4abc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ac0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ac4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ac8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4acc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ad0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ad4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ad8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4adc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ae0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ae4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ae8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4aec     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4af0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4af4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4af8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4afc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b00     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b04     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b08     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b0c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b10     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b14     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b18     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b1c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b20     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b24     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b28     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b2c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b30     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b34     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b38     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b3c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b40     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b44     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b48     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b4c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b50     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b54     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b58     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b5c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b60     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b64     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b68     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b6c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b70     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b74     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b78     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b7c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b80     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b84     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b88     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b8c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b90     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b94     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b98     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4b9c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ba0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ba4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4ba8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bac     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bb0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bb4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bb8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bbc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bc0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bc4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bc8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bcc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bd0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bd4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bd8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bdc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4be0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4be4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4be8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bec     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bf0     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bf4     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bf8     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4bfc     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4c00     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4c04     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4c08     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4c0c     0x4  startup_stm32f40xx.o [2]
+  .text              ro code   0x800'4c10     0x4  time_trampoline.o [7]
+  .rodata            const     0x800'4c14     0x0  zero_init3.o [9]
+  .rodata            const     0x800'4c14     0x0  packbits_init_single.o [9]
+  Initializer bytes  const     0x800'4c14    0x8e  <for P2-1>
+                             - 0x800'4ca2  0x4b1a
+
+"P2", part 1 of 3:                          0x4cd
+  P2-1                        0x2000'0000   0x4cd  <Init block>
+    .data            inited   0x2000'0000   0x210  FINGER_MAIN_FUNCTIONS.o [5]
+    .data            inited   0x2000'0210   0x210  FINGER_MAIN_FUNCTIONS.o [5]
+    .data            inited   0x2000'0420    0x10  Rfid_main_functions.o [6]
+    .data            inited   0x2000'0430    0x10  stm32f4xx_rcc.o [3]
+    .data            inited   0x2000'0440     0x4  system_stm32f4xx.o [2]
+    .data            inited   0x2000'0444    0x38  xlocale_c.o [7]
+    .data            inited   0x2000'047c    0x48  xfiles.o [7]
+    .data            inited   0x2000'04c4     0x8  XShttio.o [7]
+    .data            inited   0x2000'04cc     0x1  main.o [1]
+                            - 0x2000'04cd   0x4cd
+
+"P2", part 2 of 3:                          0x1fc
+  .bss               zero     0x2000'04d0    0x50  xfiles.o [7]
+  .bss               zero     0x2000'0520    0x4c  FINGER_MAIN_FUNCTIONS.o [5]
+  .bss               zero     0x2000'056c    0x3c  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'05a8    0x34  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'05dc    0x34  FINGER_MAIN_FUNCTIONS.o [5]
+  .bss               zero     0x2000'0610    0x34  Rfid_main_functions.o [6]
+  .bss               zero     0x2000'0644    0x18  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'065c    0x14  Rfid_main_functions.o [6]
+  .bss               zero     0x2000'0670    0x10  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'0680    0x10  FINGER_MAIN_FUNCTIONS.o [5]
+  .bss               zero     0x2000'0690    0x10  USART_CONFIG.o [5]
+  .bss               zero     0x2000'06a0     0x8  GPIO_CONFIG.o [5]
+  .bss               zero     0x2000'06a8     0x4  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'06ac     0x4  Delay.o [5]
+  .bss               zero     0x2000'06b0     0x4  main.o [1]
+  .bss               zero     0x2000'06b4     0x4  UART_Function.o [5]
+  .bss               zero     0x2000'06b8     0x4  USART_CONFIG.o [5]
+  .bss               zero     0x2000'06bc     0x4  xfail_s.o [7]
+  .bss               zero     0x2000'06c0     0x2  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'06c2     0x2  ADC_CONFIG.o [4]
+  .bss               zero     0x2000'06c4     0x2  FINGER_MAIN_FUNCTIONS.o [5]
+  .bss               zero     0x2000'06c6     0x2  main.o [1]
+  .bss               zero     0x2000'06c8     0x1  Rfid_main_functions.o [6]
+  .bss               zero     0x2000'06c9     0x1  Rfid_main_functions.o [6]
+                            - 0x2000'06ca   0x1fa
+
+"P2", part 3 of 3:                          0x400
+  CSTACK                      0x2000'06d0   0x400  <Block>
+    CSTACK           uninit   0x2000'06d0   0x400  <Block tail>
+                            - 0x2000'0ad0   0x400
+
+Unused ranges:
+
+         From           To       Size
+         ----           --       ----
+   0x800'4ca2   0x81f'ffff  0x1f'b35e
+  0x2000'04cd  0x2000'04cf        0x3
+  0x2000'06cc  0x2000'06cf        0x4
+  0x2000'0ad0  0x2002'ffff   0x2'f530
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x1fa:
+          0x2000'04d0  0x1fa
+
+Copy/packbits (__iar_packbits_init_single3)
+    1 source range, total size 0x8e (11% of destination):
+           0x800'4c14   0x8e
+    1 destination range, total size 0x4cd:
+          0x2000'0000  0x4cd
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                   ro code  ro data  rw data
+    ------                   -------  -------  -------
+command line/config:
+    --------------------------------------------------
+    Total:
+
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj: [1]
+    main.o                       652        1        7
+    --------------------------------------------------
+    Total:                       652        1        7
+
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\CMSIS: [2]
+    startup_stm32f40xx.o         764
+    system_stm32f4xx.o           292        1        4
+    --------------------------------------------------
+    Total:                     1'056        1        4
+
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph: [3]
+    misc.o                       128
+    stm32f4xx_adc.o              420
+    stm32f4xx_dma.o              524
+    stm32f4xx_gpio.o             280
+    stm32f4xx_rcc.o              368        2       16
+    stm32f4xx_spi.o              284
+    stm32f4xx_usart.o            500
+    --------------------------------------------------
+    Total:                     2'504        2       16
+
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\ADC_SENSORS_LIB: [4]
+    ADC_CONFIG.o                 552        8      160
+    --------------------------------------------------
+    Total:                       552        8      160
+
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib: [5]
+    Delay.o                       52                 4
+    FINGER_MAIN_FUNCTIONS.o    1'192      386    1'202
+    Finger_print.o             1'612      180
+    GPIO_CONFIG.o                388                 8
+    UART_Function.o              612                 4
+    USART_CONFIG.o               248                20
+    --------------------------------------------------
+    Total:                     4'104      566    1'238
+
+C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Rfid_lib: [6]
+    Rfid_main_functions.o        404       81       90
+    mfrc522.o                  1'720
+    --------------------------------------------------
+    Total:                     2'124       81       90
+
+dl7M_tlf.a: [7]
+    XShttio.o                      8        1        8
+    abort.o                        6
+    exit.o                         4
+    low_level_init.o               4
+    printf.o                      40
+    putchar.o                     68
+    sprintf.o                     64
+    time_trampoline.o              4
+    xfail_s.o                     64                 4
+    xfiles.o                                8      152
+    xlocale_c.o                    8        9       56
+    xprintffull_nomb.o         3'886
+    xprout.o                      22
+    xsprout.o                     10
+    --------------------------------------------------
+    Total:                     4'188       18      220
+
+m7M_tls.a: [8]
+    DblAddSub.o                  590
+    DblCmpGe.o                    52
+    DblCmpLe.o                    52
+    DblDiv.o                     582
+    DblMul.o                     426
+    DblToS32.o                    54
+    DblToU32.o                    34
+    S32ToDbl.o                    34
+    U32ToDbl.o                    28
+    fpinit_M.o                    34
+    frexp.o                      112
+    ldexp.o                      314
+    --------------------------------------------------
+    Total:                     2'312
+
+rt7M_tl.a: [9]
+    ABImemcpy.o                  166
+    I64DivMod.o                  560
+    I64DivZer.o                    2
+    cexit.o                       10
+    cmain.o                       30
+    cstartup_M.o                  28
+    data_init.o                   40
+    memchr.o                      88
+    packbits_init_single.o        58
+    strchr.o                      22
+    strlen.o                      54
+    zero_init3.o                  56
+    --------------------------------------------------
+    Total:                     1'114
+
+shb_l.a: [10]
+    dwrite.o                      30
+    exit.o                        20
+    iarttio.o                    124
+    iarwrite.o                    34
+    iarwstd.o                     32
+    time64.o                      20
+    write.o                       16
+    --------------------------------------------------
+    Total:                       276
+
+    Gaps                          21        6
+    Linker created                         32    1'024
+------------------------------------------------------
+    Grand Total:              18'903      715    2'759
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base    0x800'4870          --   Gb  - Linker created -
+.iar.init_table$$Limit   0x800'4890          --   Gb  - Linker created -
+?main                    0x800'48b1         Code  Gb  cmain.o [9]
+ADC_Cmd                  0x800'4249   0x1a  Code  Gb  stm32f4xx_adc.o [3]
+ADC_CommonInit           0x800'422b   0x1e  Code  Gb  stm32f4xx_adc.o [3]
+ADC_CommonInitStruct    0x2000'0670   0x10  Data  Gb  ADC_CONFIG.o [4]
+ADC_DMACmd               0x800'4341   0x1a  Code  Gb  stm32f4xx_adc.o [3]
+ADC_DMARequestAfterLastTransferCmd
+                         0x800'435b   0x1a  Code  Gb  stm32f4xx_adc.o [3]
+ADC_Init                 0x800'41e1   0x4a  Code  Gb  stm32f4xx_adc.o [3]
+ADC_InitStruct          0x2000'0644   0x18  Data  Gb  ADC_CONFIG.o [4]
+ADC_RegularChannelConfig
+                         0x800'4263   0xd4  Code  Gb  stm32f4xx_adc.o [3]
+ADC_SoftwareStartConv    0x800'4337    0xa  Code  Gb  stm32f4xx_adc.o [3]
+APBAHBPrescTable        0x2000'0430   0x10  Data  Lc  stm32f4xx_rcc.o [3]
+Buzzer                   0x800'3a6b   0x48  Code  Gb  main.o [1]
+CSTACK$$Base            0x2000'06d0          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0ad0          --   Gb  - Linker created -
+CalulateCRC              0x800'22bb   0x70  Code  Gb  mfrc522.o [6]
+ClearBitMask             0x800'234b   0x22  Code  Gb  mfrc522.o [6]
+DMA_Cmd                  0x800'4515   0x1a  Code  Gb  stm32f4xx_dma.o [3]
+DMA_DeInit               0x800'4385  0x140  Code  Gb  stm32f4xx_dma.o [3]
+DMA_Init                 0x800'44c5   0x50  Code  Gb  stm32f4xx_dma.o [3]
+DMA_InitStruct          0x2000'056c   0x3c  Data  Gb  ADC_CONFIG.o [4]
+GPIO_Config              0x800'3cf3  0x100  Code  Gb  GPIO_CONFIG.o [5]
+GPIO_Init                0x800'2681   0xa8  Code  Gb  stm32f4xx_gpio.o [3]
+GPIO_InitStruct         0x2000'06a0    0x8  Data  Gb  GPIO_CONFIG.o [5]
+GPIO_PinAFConfig         0x800'2745   0x54  Code  Gb  stm32f4xx_gpio.o [3]
+GPIO_ReadInputDataBit    0x800'2729   0x14  Code  Gb  stm32f4xx_gpio.o [3]
+GPIO_ResetBits           0x800'2741    0x4  Code  Gb  stm32f4xx_gpio.o [3]
+GPIO_SetBits             0x800'273d    0x4  Code  Gb  stm32f4xx_gpio.o [3]
+MF522_init               0x800'1e59   0xea  Code  Gb  mfrc522.o [6]
+MFRC522_AntennaOn        0x800'24e9   0x18  Code  Gb  mfrc522.o [6]
+MFRC522_Anticoll         0x800'20b5   0x84  Code  Gb  mfrc522.o [6]
+MFRC522_AuthState        0x800'21b5   0x76  Code  Gb  mfrc522.o [6]
+MFRC522_ComMF522         0x800'236d  0x17c  Code  Gb  mfrc522.o [6]
+MFRC522_Halt             0x800'2289   0x32  Code  Gb  mfrc522.o [6]
+MFRC522_Read             0x800'222b   0x5e  Code  Gb  mfrc522.o [6]
+MFRC522_ReadRegister     0x800'1fe1   0x40  Code  Gb  mfrc522.o [6]
+MFRC522_Request          0x800'205d   0x58  Code  Gb  mfrc522.o [6]
+MFRC522_Reset            0x800'1f67   0x7a  Code  Gb  mfrc522.o [6]
+MFRC522_Select           0x800'2139   0x7c  Code  Gb  mfrc522.o [6]
+MFRC522_WriteRegister    0x800'2021   0x3c  Code  Gb  mfrc522.o [6]
+NVIC_Init                0x800'3c2b   0x62  Code  Gb  misc.o [3]
+NVIC_InitStruct         0x2000'06b8    0x4  Data  Gb  USART_CONFIG.o [5]
+NVIC_PriorityGroupConfig
+                         0x800'3c21    0xa  Code  Gb  misc.o [3]
+NVIC_SetPriority         0x800'3ca1   0x24  Code  Lc  GPIO_CONFIG.o [5]
+RCC_AHB1PeriphClockCmd   0x800'25cd   0x1c  Code  Gb  stm32f4xx_rcc.o [3]
+RCC_APB1PeriphClockCmd   0x800'25e9   0x1c  Code  Gb  stm32f4xx_rcc.o [3]
+RCC_APB1PeriphResetCmd   0x800'2621   0x1c  Code  Gb  stm32f4xx_rcc.o [3]
+RCC_APB2PeriphClockCmd   0x800'2605   0x1c  Code  Gb  stm32f4xx_rcc.o [3]
+RCC_APB2PeriphResetCmd   0x800'263d   0x1c  Code  Gb  stm32f4xx_rcc.o [3]
+RCC_GetClocksFreq        0x800'2511   0xbc  Code  Gb  stm32f4xx_rcc.o [3]
+Read64Block              0x800'3ed5   0xa6  Code  Gb  Rfid_main_functions.o [6]
+Read_Alcohol             0x800'40e9   0x4e  Code  Gb  ADC_CONFIG.o [4]
+Read_Pulse_sensor        0x800'4137   0x4e  Code  Gb  ADC_CONFIG.o [4]
+Read_RFID                0x800'3e25   0xa0  Code  Gb  Rfid_main_functions.o [6]
+Region$$Table$$Base      0x800'4870          --   Gb  - Linker created -
+Region$$Table$$Limit     0x800'4890          --   Gb  - Linker created -
+Rfid_initilization       0x800'3ec5   0x10  Code  Gb  Rfid_main_functions.o [6]
+SPI_Cmd                  0x800'2899   0x1c  Code  Gb  stm32f4xx_spi.o [3]
+SPI_I2S_DeInit           0x800'2799   0xaa  Code  Gb  stm32f4xx_spi.o [3]
+SPI_Init                 0x800'2843   0x3e  Code  Gb  stm32f4xx_spi.o [3]
+SPI_transfer             0x800'1f43   0x24  Code  Gb  mfrc522.o [6]
+Selected_Button         0x2000'06c6    0x2  Data  Gb  main.o [1]
+SetBitMask               0x800'232b   0x20  Code  Gb  mfrc522.o [6]
+SetSysClock              0x800'45d7   0xaa  Code  Lc  system_stm32f4xx.o [2]
+SysTick_Config           0x800'3cc5   0x2e  Code  Lc  GPIO_CONFIG.o [5]
+SystemCoreClock         0x2000'0440    0x4  Data  Gb  system_stm32f4xx.o [2]
+SystemInit               0x800'4591   0x46  Code  Gb  system_stm32f4xx.o [2]
+Two_high                 0x800'3b3d   0x88  Code  Gb  main.o [1]
+UART5_IRQHandler         0x800'3649    0xa  Code  Gb  UART_Function.o [5]
+USART1_IRQHandler        0x800'3637   0x12  Code  Gb  UART_Function.o [5]
+USART_ClearFlag          0x800'3903    0xe  Code  Gb  stm32f4xx_usart.o [3]
+USART_ClearITPendingBit
+                         0x800'3975   0x20  Code  Gb  stm32f4xx_usart.o [3]
+USART_Cmd                0x800'3869   0x1c  Code  Gb  stm32f4xx_usart.o [3]
+USART_Config             0x800'36a9   0x88  Code  Gb  USART_CONFIG.o [5]
+USART_GetFlagStatus      0x800'38e9   0x1a  Code  Gb  stm32f4xx_usart.o [3]
+USART_GetITStatus        0x800'3911   0x64  Code  Gb  stm32f4xx_usart.o [3]
+USART_ITConfig           0x800'3895   0x54  Code  Gb  stm32f4xx_usart.o [3]
+USART_Init               0x800'37a1   0xba  Code  Gb  stm32f4xx_usart.o [3]
+USART_InitStruct        0x2000'0690   0x10  Data  Gb  USART_CONFIG.o [5]
+USART_Puts               0x800'376b   0x24  Code  Gb  USART_CONFIG.o [5]
+USART_ReceiveData        0x800'388d    0x8  Code  Gb  stm32f4xx_usart.o [3]
+USART_SendData           0x800'3885    0x8  Code  Gb  stm32f4xx_usart.o [3]
+_LitobFullNoMb           0x800'0ebd  0x10c  Code  Lc  xprintffull_nomb.o [7]
+_Locale_lconv           0x2000'0444   0x38  Data  Lc  xlocale_c.o [7]
+_PrintfFullNoMb          0x800'0189  0xd04  Code  Gb  xprintffull_nomb.o [7]
+_Prout                   0x800'49b5   0x16  Code  Gb  xprout.o [7]
+_PutcharFullNoMb         0x800'1021   0x20  Code  Lc  xprintffull_nomb.o [7]
+_PutcharsFullNoMb        0x800'1041   0x2e  Code  Lc  xprintffull_nomb.o [7]
+_SProut                  0x800'1107    0xa  Code  Gb  xsprout.o [7]
+__aeabi_cdcmple          0x800'12f9         Code  Gb  DblCmpLe.o [8]
+__aeabi_cdrcmple         0x800'132d         Code  Gb  DblCmpGe.o [8]
+__aeabi_d2iz             0x800'149d         Code  Gb  DblToS32.o [8]
+__aeabi_d2uiz            0x800'1991         Code  Gb  DblToU32.o [8]
+__aeabi_ddiv             0x800'1749         Code  Gb  DblDiv.o [8]
+__aeabi_dmul             0x800'19d1         Code  Gb  DblMul.o [8]
+__aeabi_dsub             0x800'1665         Code  Gb  DblAddSub.o [8]
+__aeabi_i2d              0x800'14d5         Code  Gb  S32ToDbl.o [8]
+__aeabi_ldiv0            0x800'1dbd         Code  Gb  I64DivZer.o [9]
+__aeabi_memcpy           0x800'11e1         Code  Gb  ABImemcpy.o [9]
+__aeabi_memcpy4          0x800'1201         Code  Gb  ABImemcpy.o [9]
+__aeabi_memcpy8          0x800'1201         Code  Gb  ABImemcpy.o [9]
+__aeabi_ui2d             0x800'19b5         Code  Gb  U32ToDbl.o [8]
+__aeabi_uldivmod         0x800'1b85         Code  Gb  I64DivMod.o [9]
+__cmain                  0x800'48b1         Code  Gb  cmain.o [9]
+__dwrite                 0x800'4709   0x1e  Code  Gb  dwrite.o [10]
+__exit                   0x800'1dc1   0x14  Code  Gb  exit.o [10]
+__iar_Fail_s             0x800'1111   0x1c  Code  Gb  xfail_s.o [7]
+__iar_Memchr             0x800'1189         Code  Gb  memchr.o [9]
+__iar_Stdout            0x2000'047c   0x48  Data  Gb  xfiles.o [7]
+__iar_Strchr             0x800'10f1         Code  Gb  strchr.o [9]
+__iar_close_ttio         0x800'1dd5   0x2c  Code  Gb  iarttio.o [10]
+__iar_data_init3         0x800'4801   0x28  Code  Gb  data_init.o [9]
+__iar_frexp              0x800'1295         Code  Gb  frexp.o [8]
+__iar_frexpl             0x800'1295         Code  Gb  frexp.o [8]
+__iar_get_ttio           0x800'1e01   0x4c  Code  Gb  iarttio.o [10]
+__iar_init_vfp           0x800'484d         Code  Gb  fpinit_M.o [8]
+__iar_ldexp64            0x800'1361         Code  Gb  ldexp.o [8]
+__iar_lookup_ttioh       0x800'1e51    0x8  Code  Gb  XShttio.o [7]
+__iar_packbits_init_single3
+                         0x800'10b7   0x3a  Code  Gb  packbits_init_single.o [9]
+__iar_program_start      0x800'4939         Code  Gb  cstartup_M.o [9]
+__iar_scalbln64          0x800'1361         Code  Gb  ldexp.o [8]
+__iar_scalbn64           0x800'1361         Code  Gb  ldexp.o [8]
+__iar_sh_stdout          0x800'4727   0x20  Code  Gb  iarwstd.o [10]
+__iar_sh_write           0x800'4747   0x22  Code  Gb  iarwrite.o [10]
+__iar_softfp___iar_frexp64
+                         0x800'1289         Code  Gb  frexp.o [8]
+__iar_softfp_frexp       0x800'1289         Code  Gb  frexp.o [8]
+__iar_softfp_frexpl      0x800'1289         Code  Gb  frexp.o [8]
+__iar_ttio_handles      0x2000'04c4    0x8  Data  Lc  XShttio.o [7]
+__iar_zero_init3         0x800'47a1   0x38  Code  Gb  zero_init3.o [9]
+__low_level_init         0x800'48cf    0x4  Code  Gb  low_level_init.o [7]
+__time64                 0x800'4a31   0x14  Code  Gb  time64.o [10]
+__vector_table           0x800'0000         Data  Gb  startup_stm32f40xx.o [2]
+__write                  0x800'46f9   0x10  Code  Gb  write.o [10]
+_call_main               0x800'48bd         Code  Gb  cmain.o [9]
+_exit                    0x800'48d9         Code  Gb  cexit.o [9]
+abort                    0x800'1db5    0x6  Code  Gb  abort.o [7]
+adc_ayar                 0x800'3ff7   0x86  Code  Gb  ADC_CONFIG.o [4]
+adc_value               0x2000'06a8    0x4  Data  Gb  ADC_CONFIG.o [4]
+alkol_Sensor            0x2000'06c0    0x2  Data  Gb  ADC_CONFIG.o [4]
+c_sharp_bool            0x2000'04cc    0x1  Data  Gb  main.o [1]
+clear_str                0x800'4185   0x1a  Code  Gb  ADC_CONFIG.o [4]
+clear_transmitter        0x800'2f5d   0x1c  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+count                   0x2000'06ac    0x4  Data  Gb  Delay.o [5]
+defaultKeyA             0x2000'0420   0x10  Data  Gb  Rfid_main_functions.o [6]
+delay_ms                 0x800'28c1   0x18  Code  Gb  Delay.o [5]
+delay_us                 0x800'28b5    0xc  Code  Gb  Delay.o [5]
+dma_ayar                 0x800'407d   0x6c  Code  Gb  ADC_CONFIG.o [4]
+enroll_finger            0x800'30d3  0x2ac  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+enroll_mainloop          0x800'3025   0x3e  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+exit                     0x800'48d3    0x4  Code  Gb  exit.o [7]
+fingerprint_main_init    0x800'2f79   0xac  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+flag_loop               0x2000'06c9    0x1  Data  Gb  Rfid_main_functions.o [6]
+fpm_begin                0x800'28e9   0x78  Code  Gb  Finger_print.o [5]
+fpm_create_model         0x800'29d9   0x3a  Code  Gb  Finger_print.o [5]
+fpm_get_free_index       0x800'2b61   0xb6  Code  Gb  Finger_print.o [5]
+fpm_get_image            0x800'2961   0x3a  Code  Gb  Finger_print.o [5]
+fpm_image2Tz             0x800'299b   0x3e  Code  Gb  Finger_print.o [5]
+fpm_packet_lengths       0x800'4a94    0x8  Data  Gb  Finger_print.o [5]
+fpm_read_params          0x800'2a7b   0xe6  Code  Gb  Finger_print.o [5]
+fpm_store_model          0x800'2a13   0x4c  Code  Gb  Finger_print.o [5]
+g_ucTempbuf             0x2000'065c   0x14  Data  Gb  Rfid_main_functions.o [6]
+generic_usart_handler    0x800'3581   0xb6  Code  Lc  UART_Function.o [5]
+get_free_id              0x800'3063   0x70  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+get_reply                0x800'2cbf  0x20c  Code  Lc  Finger_print.o [5]
+gpio_config              0x800'3fcf   0x28  Code  Gb  ADC_CONFIG.o [4]
+idstr                   0x2000'0610   0x34  Data  Gb  Rfid_main_functions.o [6]
+initilization            0x800'3fb9   0x16  Code  Gb  ADC_CONFIG.o [4]
+kalp_sensor             0x2000'06c2    0x2  Data  Gb  ADC_CONFIG.o [4]
+kirmizi_buzzer           0x800'3bc5   0x4a  Code  Gb  main.o [1]
+ldexp                    0x800'1361         Code  Gb  ldexp.o [8]
+ldexpl                   0x800'1361         Code  Gb  ldexp.o [8]
+localeconv               0x800'1b7d    0x4  Code  Gb  xlocale_c.o [7]
+low_Value                0x800'3ab3   0x48  Code  Gb  main.o [1]
+main                     0x800'3995   0x62  Code  Gb  main.o [1]
+memchr                   0x800'1189         Code  Gb  memchr.o [9]
+millis                   0x800'28d9    0x6  Code  Gb  Delay.o [5]
+my_counter              0x2000'06b4    0x4  Data  Gb  UART_Function.o [5]
+nvic_config              0x800'3731   0x3a  Code  Gb  USART_CONFIG.o [5]
+obuf                    0x2000'04d0   0x50  Data  Lc  xfiles.o [7]
+parametreler            0x2000'0680   0x10  Data  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+parmak                  0x2000'0520   0x4c  Data  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+printf                   0x800'2f35   0x28  Code  Gb  printf.o [7]
+putchar                  0x800'46b5   0x44  Code  Gb  putchar.o [7]
+read_ack_get_response    0x800'2ecb   0x4e  Code  Lc  Finger_print.o [5]
+reverse_bytes            0x800'2a5f   0x1c  Code  Lc  Finger_print.o [5]
+rfid_counter            0x2000'06b0    0x4  Data  Gb  main.o [1]
+scalbln                  0x800'1361         Code  Gb  ldexp.o [8]
+scalblnl                 0x800'1361         Code  Gb  ldexp.o [8]
+scalbn                   0x800'1361         Code  Gb  ldexp.o [8]
+scalbnl                  0x800'1361         Code  Gb  ldexp.o [8]
+scale                    0x800'0fc9   0x46  Code  Lc  xprintffull_nomb.o [7]
+sec_hand                0x2000'06bc    0x4  Data  Lc  xfail_s.o [7]
+selection_function       0x800'39f7   0x74  Code  Gb  main.o [1]
+sprintf                  0x800'3669   0x40  Code  Gb  sprintf.o [7]
+status                  0x2000'06c8    0x1  Data  Gb  Rfid_main_functions.o [6]
+str                     0x2000'05a8   0x34  Data  Gb  ADC_CONFIG.o [4]
+strchr                   0x800'10f1         Code  Gb  strchr.o [9]
+strlen                   0x800'1151         Code  Gb  strlen.o [9]
+time                     0x800'4c11    0x4  Code  Gb  time_trampoline.o [7]
+transmitter             0x2000'05dc   0x34  Data  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+uart1                   0x2000'0210  0x210  Data  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+uart6                   0x2000'0000  0x210  Data  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+uart_avail               0x800'3563   0x1e  Code  Gb  UART_Function.o [5]
+uart_init                0x800'3405   0x20  Code  Gb  UART_Function.o [5]
+uart_read                0x800'3531   0x32  Code  Gb  UART_Function.o [5]
+uart_read_byte           0x800'34c9   0x38  Code  Gb  UART_Function.o [5]
+uart_timed_read_byte     0x800'3501   0x30  Code  Gb  UART_Function.o [5]
+uart_write               0x800'3425   0x2e  Code  Gb  UART_Function.o [5]
+uart_write_byte          0x800'3453   0x76  Code  Gb  UART_Function.o [5]
+usart_okuma              0x800'338d   0x10  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+usart_start              0x800'3381    0xa  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+usart_yazma              0x800'339d   0x10  Code  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+veritabani               0x800'3afb   0x42  Code  Gb  main.o [1]
+write_packet             0x800'2c17   0xa8  Code  Lc  Finger_print.o [5]
+yeni_parmak_ID          0x2000'06c4    0x2  Data  Gb  FINGER_MAIN_FUNCTIONS.o [5]
+
+
+[1] = C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj
+[2] = C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\CMSIS
+[3] = C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\Std_Periph
+[4] = C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\ADC_SENSORS_LIB
+[5] = C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Finger_lib
+[6] = C:\Users\Yusuf\OneDrive\Masaüstü\ProjectFile\160207029_YusufOzcan_Karaman\STM32F407VG_C_Codes\PROJECT\EWARM\Debug\Obj\User\Libraries\Rfid_lib
+[7] = dl7M_tlf.a
+[8] = m7M_tls.a
+[9] = rt7M_tl.a
+[10] = shb_l.a
+
+  18'903 bytes of readonly  code memory
+     715 bytes of readonly  data memory
+   2'759 bytes of readwrite data memory
+
+Errors: none
+Warnings: none
